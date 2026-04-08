@@ -1,4 +1,4 @@
-import { personal, socials, resumeUrl } from "@/data/portfolio"
+import { personal, resumeUrl } from "@/data/portfolio"
 import { MapPin, Mail, Download } from "lucide-react"
 import FadeIn from "@/components/FadeIn"
 import Image from "next/image"
