@@ -2,7 +2,7 @@
 
 import { useState } from "react"
 import Image from "next/image"
-import { projects, type Project } from "@/data/portfolio"
+import { projects } from "@/data/portfolio"
 import { Card, CardContent } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { ExternalLink } from "lucide-react"
