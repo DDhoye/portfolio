@@ -175,4 +175,4 @@ export const experience = [
 
 // --- RESUME ---
 // Drop your CV in /public/ and update the path here
-export const resumeUrl = "/DAVID_DHOYE_CV.pdf"
+export const resumeUrl = "/david_dhoye_cv.pdf"
